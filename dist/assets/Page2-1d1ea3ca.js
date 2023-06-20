@@ -1,0 +1,1 @@
+import{_ as e}from"./_plugin-vue_export-helper-c27b6911.js";import{a as c,c as r}from"./index-4135a0d3.js";const o={};function t(a,n){return c(),r("div",null,"我是Page2的组件")}const f=e(o,[["render",t]]);export{f as default};
